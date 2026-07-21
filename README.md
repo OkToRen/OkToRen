@@ -29,10 +29,10 @@ I'm a developer who enjoys building things across the stack — from web apps an
 
 | Project | Description |
 | --- | --- |
-| [Nara](https://github.com/OkToRen/nara) | GarudaHacks 6.0 submission — team sudo win |
-| [Budgetin](https://github.com/OkToRen/Budgetin) | Budgeting app to track expenses and save money (Kotlin) |
+| [Lively](https://github.com/LivelyHub) | Mobile app built with React Native and TypeScript — backend, bot, and landing page under the LivelyHub org |
+| [Intern Repo](https://github.com/OkToRen/Intern-Repo) | Work from my internship |
+| [pdf-Processor](https://github.com/OkToRen/pdf-Processor) | Tool for processing PDF documents |
 | [Portofolio](https://github.com/OkToRen/Portofolio) | Personal portfolio website built with Astro |
-| [Stackybara](https://github.com/OkToRen/Stackybara) | TypeScript project |
 
 ## 📊 GitHub Stats
 
