@@ -75,14 +75,14 @@
 
 I run my own self-hosted server, managing everything from the OS up:
 
-- ⚙️ **OS & Networking** — Linux server administration, networking configuration, and reverse proxying
+- ⚙️ **OS & Networking** — **Ubuntu Server** administration, networking configuration, and reverse proxying
 - 🔄 **CI/CD** — self-hosted **Gitea** for git hosting with automated CI/CD pipelines
 - 🛡️ **Network Safety** — **Cloudflare Zero Trust** for secure access, tunneling, and keeping services off the public internet
 - 🐳 **Containers** — services containerized and orchestrated with **Docker**
 - 🗄️ **Object Storage** — self-hosted **MinIO** and **SeaweedFS**
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
   <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
   <img src="https://img.shields.io/badge/Cloudflare_Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Zero Trust" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
