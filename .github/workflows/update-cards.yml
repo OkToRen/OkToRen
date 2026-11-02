@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - .github/workflows/update-cards.yml
+      - .github/scripts/update-recent.sh
 
 permissions:
   contents: write
@@ -35,6 +36,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Update recently pushed list
+        run: bash .github/scripts/update-recent.sh ${{ github.repository_owner }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
