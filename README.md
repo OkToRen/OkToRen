@@ -3,7 +3,7 @@
 Full-stack and mobile developer. I just finished my thesis, and now I'm spending more time on AI/ML and data mining. Naming things is still the hardest part of programming for me.
 
 <samp>
-  <a href="https://portofolio-weld-six.vercel.app">portfolio</a> .
+  <a href="https://darrenharyanto.com">portfolio</a> .
   <a href="mailto:darrenharyanto@gmail.com">email</a> .
   <a href="https://github.com/OkToRen?tab=repositories">repositories</a>
 </samp>
