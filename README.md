@@ -19,7 +19,7 @@ Full-stack and mobile developer. I just finished my thesis, and now I'm spending
 ## Recently pushed
 
 <!-- recent:start -->
-- [Portofolio](https://github.com/OkToRen/Portofolio) (Astro), 2026-11-10
+- [Portofolio](https://github.com/OkToRen/Portofolio) (Astro), 2026-11-11
 - [PreThesisS1](https://github.com/OkToRen/PreThesisS1) (Jupyter Notebook), 2026-10-12
 - [sectors-hackathon](https://github.com/OkToRen/sectors-hackathon) (Python), 2026-10-08
 - [YieldLine](https://github.com/OkToRen/YieldLine) (TypeScript), 2026-09-26
